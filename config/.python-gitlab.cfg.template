@@ -1,0 +1,10 @@
+[global]
+default = PRD
+ssl_verify = false
+timeout = 5
+api_version = 4
+
+[PRD]
+url = http://gitlab.example.com
+private_token = froMO8upi6UspuStoCr7
+per_page = 100
