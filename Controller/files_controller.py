@@ -2,7 +2,7 @@
 import os
 
 ## Cleanup last report to create the new one
-def reportCleanUp():
+def report_cleanup():
     ## Cleanup old reportFiles
     ### Remove project old files
     projectFileListExists = os.path.isfile('list\\projects.csv')

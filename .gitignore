@@ -1,7 +1,7 @@
 # Project Ignore Files #
 ########################
+list/*
 !list/.gitkeep
-list/
 
 config/.python-gitlab.cfg
 
